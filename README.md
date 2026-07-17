@@ -32,25 +32,16 @@ I help businesses stay organized by delivering reliable administrative, finance,
 </div>
 
 <div class="card">
-### Soft Skills
-<p>Accounts Receivable, Invoicing, Reporting</p>
-</div>
+### Technical Skills
+- Microsoft Excel (Advanced, VLOOKUP, Pivot Tables, Data Cleaning)
+- Google Sheets (Google Workspace (Sheets, Docs, Drive)
+- Data Entry (High-Accuracy in recording financial data)
+- Operational Process Monitoring (Workflow Analysis, Scheduling)
+<div class="grid">
 
 <div class="card">
-<h3>Excel</h3>
-<p>Pivot Table, XLOOKUP, IF, Dashboard</p>
-</div>
-
-<div class="card">
-<h3>Customer Service</h3>
-<p>Email Support, Chat Support, CRM</p>
-</div>
 
 </div>
-
-</section>
-
-<section>
 
 <h2>Experience</h2>
 
