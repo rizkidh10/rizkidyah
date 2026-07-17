@@ -32,7 +32,7 @@ I help businesses stay organized by delivering reliable administrative, finance,
 </div>
 
 <div class="card">
-<h3>Finance</h3>
+### Soft Skills
 <p>Accounts Receivable, Invoicing, Reporting</p>
 </div>
 
