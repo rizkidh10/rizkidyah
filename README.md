@@ -45,6 +45,8 @@ I help businesses stay organized by delivering reliable administrative, finance,
 <div class="card">
 
 </div>
+## 💼 Experience
+
 
 |   💼 Administrative Operations  |          💰 Finance & Accounts          |      ⚙️ Production & Customer Support      |
 | :-----------------------------: | :-------------------------------------: | :----------------------------------------: |
