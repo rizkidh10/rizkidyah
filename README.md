@@ -2,7 +2,7 @@
 
 <p>Administrative & Finance Support | Accounts Receivable | Operations adn Virtual Assistant</p>
 
-<a class="btn" href="#">Download Resume</a>
+📄 Download Resume      💼 View Portfolio
 
 </header>
 
