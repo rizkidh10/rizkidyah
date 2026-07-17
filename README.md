@@ -56,10 +56,10 @@ I help businesses stay organized by delivering reliable administrative, finance,
 
 ## 💼 Experience
 
-📌 **6+ Years in Administrative & Operations**
+📌 **Supervisor Administrative** Aug 2024 – Dec 2025
 
 - 👥 Led a team of 7 staff
-- 📊 Managed 30–70 daily financial transactions
+- 📊 Coordinated production workflowns
 - 💰 Accounts Receivable & Invoicing
 - 📈 COGS Calculation & Reporting
 - 📦 Production Coordination (PPIC)
