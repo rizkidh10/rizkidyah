@@ -45,14 +45,15 @@ I help businesses stay organized by delivering reliable administrative, finance,
 <div class="card">
 
 </div>
-## 💼 Experience
+
+💼 Experience
 
 
-|   💼 Administrative Operations  |          💰 Finance & Accounts          |      ⚙️ Production & Customer Support      |
+|   💼 Administrative Operations  |          💰 Finance & Accounts           |      ⚙️ Production & Customer Support      |
 | :-----------------------------: | :-------------------------------------: | :----------------------------------------: |
-|   👥 Led a team of **7 staff**  | 💳 Managed **30–70 daily transactions** |     📦 Coordinated production schedules    |
-|  📋 Documentation & Scheduling  |          📊 Accounts Receivable         | 🤝 Worked with Sales, Finance & Production |
-| 📈 Improved workflow efficiency |           💵 COGS Calculation           |     📞 Assisted **30–50 customers/day**    |
+| 👥 Led a team of **7 staff**   |   💳 Managed **30–70 daily transactions**   | 📦 Coordinated production schedules    |
+| 📋 Documentation & Scheduling  |   📊 Accounts Receivable                    | 🤝 Worked with Sales, Finance & Production |
+| 📈 Improved workflow efficiency |  💵 COGS Calculation                       | 📞 Assisted **30–50 customers/day**    |
 
 
 <div class="card">
