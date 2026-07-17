@@ -66,13 +66,20 @@ I help businesses stay organized by delivering reliable administrative, finance,
 - 🤝 Customer Service & Order Management
 
 
-┌────────────────────────────┐
-│ 💼 Administrative          │
-│                            │
-│ Led 7 Staff                │
-│ Daily Operations           │
-│ Documentation              │
-└────────────────────────────┘
+portfolio/
+
+├── index.html
+├── style.css
+├── script.js
+│
+├── assets/
+│   ├── profile.png
+│   ├── resume.pdf
+│   └── images/
+│
+├── icons/
+│
+└── README.md
 <h2>Portfolio</h2>
 
 <div class="grid">
