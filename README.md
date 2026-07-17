@@ -65,6 +65,14 @@ I help businesses stay organized by delivering reliable administrative, finance,
 - 📦 Production Coordination (PPIC)
 - 🤝 Customer Service & Order Management
 
+
+┌────────────────────────────┐
+│ 💼 Administrative          │
+│                            │
+│ Led 7 Staff                │
+│ Daily Operations           │
+│ Documentation              │
+└────────────────────────────┘
 <h2>Portfolio</h2>
 
 <div class="grid">
