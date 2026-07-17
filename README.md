@@ -58,21 +58,6 @@ I help businesses stay organized by delivering reliable administrative, finance,
 
 <div class="card">
 
-<h3>Administrative Supervisor</h3>
-
-<p>
-
-• Managed administrative operations
-
-• Led team of 7 staff
-
-• Processed customer orders
-
-• Created production schedules
-
-• Managed Accounts Receivable
-
-• Improved operational efficiency
 
 </p>
 
