@@ -65,7 +65,16 @@ I help businesses stay organized by delivering reliable administrative, finance,
 
 </section>
 
-<section>
+## 💼 Experience
+
+📌 **6+ Years in Administrative & Operations**
+
+- 👥 Led a team of 7 staff
+- 📊 Managed 30–70 daily financial transactions
+- 💰 Accounts Receivable & Invoicing
+- 📈 COGS Calculation & Reporting
+- 📦 Production Coordination (PPIC)
+- 🤝 Customer Service & Order Management
 
 <h2>Portfolio</h2>
 
