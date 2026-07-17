@@ -23,7 +23,7 @@ I help businesses stay organized by delivering reliable administrative, finance,
 <div class="grid">
 
 <div class="card">
-<h3>Administration</h3>
+
 <p>Scheduling, Documentation, Data Entry</p>
 </div>
 
