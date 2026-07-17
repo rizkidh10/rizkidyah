@@ -1,6 +1,9 @@
 # rizkidyah
 Welcome to Rizki Portofolio
-<!DOCTYPE html>
+<Administrative and Operations professional with 6+ years of experience supporting finance, customer service, and
+production operations in the printing industry. Experienced in handling 30–70 daily transactions, managing
+Accounts Receivable, preparing COGS calculations, monitoring production workflows, and coordinating crossfunctional
+teams.>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
