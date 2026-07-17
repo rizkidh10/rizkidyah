@@ -56,9 +56,9 @@ I help businesses stay organized by delivering reliable administrative, finance,
 
 ## 💼 Experience
 
-📌 **Supervisor Administrative** Aug 2024 – Dec 2025
+📌 **Supervisor Administrative (Aug 2024 – Dec 2025)** 
 
-- 👥 Led a team of 7 staff
+- 👥 Led a team of 7 administrative staff
 - 📊 Coordinated production workflowns
 - 💰 Accounts Receivable & Invoicing
 - 📈 COGS Calculation & Reporting
