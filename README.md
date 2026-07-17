@@ -18,16 +18,20 @@ I help businesses stay organized by delivering reliable administrative, finance,
 
 <section>
 
-<h2>Skills & Proficiencies</h2>
-Techincal
-Microsoft Excel
-Advanced Excel (VLOOKUP, Pivot, Tables, Data Cleaning)
-Google Sheets
-Google Workspace (Sheets, Docs, Drive)
-Data Entry
-High-Accuracy in recording financial data
-Operational Process Monitoring
-Tracking and analyzing workflow efficiency and production activities
+## Skills & Proficiencies
+
+### Technical Skills
+- Microsoft Excel (Advanced)
+- VLOOKUP
+- Pivot Tables
+- Data Cleaning
+- Google Sheets
+- Google Workspace (Sheets, Docs, Drive)
+- Data Entry
+- Operational Process Monitoring
+- Workflow Analysis
+- Scheduling
+- Documentation
 <div class="grid">
 
 <div class="card">
