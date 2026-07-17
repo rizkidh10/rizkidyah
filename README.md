@@ -1,13 +1,7 @@
 # rizkidyah
-Welcome to Rizki Portofolio
-<Administrative and Operations professional with 6+ years of experience supporting finance, customer service, and
-production operations in the printing industry. Experienced in handling 30–70 daily transactions, managing
-Accounts Receivable, preparing COGS calculations, monitoring production workflows, and coordinating crossfunctional
-teams.>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+## Summary
+I help businesses stay organized by delivering reliable administrative, finance, and operational support. With over six years of experience in the printing industry, I have managed accounts receivable, customer service, production coordination, COGS calculations, and high-volume administrative tasks with accuracy and efficiency. Known for my attention to detail and structured approach, I enjoy creating streamlined processes that allow teams to focus on growing their business.
+
 <title>Rizki Dyah Hapsari</titlAdministrative Support | Finance Support & Accounts Receivable (AR) | Operations & Virtual Assistante>
 
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
