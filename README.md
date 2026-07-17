@@ -1,7 +1,6 @@
 # rizkidyah
 ## Summary
 I help businesses stay organized by delivering reliable administrative, finance, and operational support. With over six years of experience in the printing industry, I have managed accounts receivable, customer service, production coordination, COGS calculations, and high-volume administrative tasks with accuracy and efficiency. Known for my attention to detail and structured approach, I enjoy creating streamlined processes that allow teams to focus on growing their business.
-
 <title>Rizki Dyah Hapsari</titlAdministrative Support | Finance Support & Accounts Receivable (AR) | Operations & Virtual Assistante>
 
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
